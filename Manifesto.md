@@ -1,11 +1,8 @@
-# Vynkrex Manifesto
-
-Vynkrex, bağımsız bir teknik yapılanma olarak, uzun vadeli ve sürdürülebilir yazılım projeleri geliştirmeye odaklanır. Bu yapı, tek bir ürünü değil, tüm Vynkrex projelerini şekillendiren standartları ve prensipleri belirler. Amaç, projelerin rastgele değil planlı, anlaşılabilir ve bakımı mümkün olacak şekilde geliştirilmesini sağlamaktır.
-
-Her proje, ortak bir mimari ve geliştirme yaklaşımı çerçevesinde ilerler. Kod yalnızca çalışır olmak için yazılmaz; okunabilir, genişletilebilir ve test edilebilir olması önceliklidir. Bu yaklaşım, ekip üyeleri arasında ortak bir anlayış sağlar ve projelerin uzun vadede sürdürülebilir olmasına katkıda bulunur.
-
-Projelerde mimari netlik temel bir prensiptir. Gereksiz soyutlamalardan ve aşırı katmanlardan kaçınılır. Her modül ve sistem parçası, gerçek kullanım senaryolarını destekleyecek şekilde tasarlanır. Kod ve yapı karmaşık değil, mantıklı ve takip edilebilir olmalıdır.
-
-Bakımı mümkün bir yapı sağlamak, tüm projelerin en önemli hedeflerinden biridir. Yeni geliştiriciler veya ekip üyeleri projeyi hızlı bir şekilde anlayabilmeli ve katkı sağlayabilmelidir. Projeler, kısa vadeli çözümler yerine uzun vadeli sürdürülebilirliği önceliklendirir.
-
-Vynkrex Manifestosu, sadece kuralları belirlemekle kalmaz; aynı zamanda tüm projelerin çerçevesini çizer ve teknik kararların ortak bir zeminde alınmasını sağlar. Topluluk araçları, oyun sistemleri ve ölçeklenebilir uygulamalar gibi farklı alanlarda geliştirilen projeler, bu prensiplere uygun olarak tasarlanır ve yönetilir.
+#Vynkrex Manifestosu 
+Vynkrex, uzun vadeli ve sürdürülebilir yazılım projeleri geliştirmek amacıyla oluşturulmuş bağımsız bir teknik yapılanmadır. Bu yapı tekil bir ürün veya kısa vadeli çıktılar üretmeyi değil; Vynkrex çatısı altındaki tüm projeleri yönlendiren ortak prensipleri, standartları ve karar alma biçimlerini tanımlar.
+Vynkrex projeleri rastgele yaklaşımlarla değil, planlı ve tutarlı bir mimari anlayışla geliştirilir. Amaç yalnızca çalışan yazılım üretmek değil; bakımı yapılabilir, geliştirilebilir ve uzun süre yaşayabilecek sistemler inşa etmektir. Bu yaklaşım, projelerin zaman içinde bozulmasını değil, olgunlaşmasını hedefler.
+Kod kalitesi Vynkrex için temel bir değerdir. Yazılan kod; okunabilir, anlaşılabilir ve genişletilebilir olmalıdır. Her proje, ekip içindeki veya sonradan dahil olacak geliştiricilerin hızlıca adapte olabileceği bir yapıda tasarlanır. Kod, bireysel tercihlerden ziyade ortak bir teknik dil ve mimari anlayış üzerine inşa edilir.
+Mimari netlik Vynkrex projelerinin vazgeçilmez bir ilkesidir. Gereksiz soyutlamalardan, aşırı katmanlı yapılardan ve karmaşıklıktan kaçınılır. Her modül ve sistem bileşeni, gerçek kullanım senaryoları göz önünde bulundurularak tasarlanır. Yapılar karmaşık değil; tutarlı, izlenebilir ve mantıksal olmalıdır.
+Bakımı mümkün olmayan sistemler sürdürülebilir değildir. Bu nedenle Vynkrex projeleri kısa vadeli çözümler yerine uzun vadeli dayanıklılığı önceliklendirir. Teknik borcun bilinçsizce birikmesine izin verilmez; alınan her mimari kararın ileride doğuracağı sonuçlar değerlendirilir.
+Vynkrex Manifestosu yalnızca teknik kuralları değil, aynı zamanda çalışma biçimini de tanımlar. Topluluk araçları, oyun sistemleri, otomasyon dışı altyapılar ve ölçeklenebilir uygulamalar gibi farklı alanlardaki projeler bu ortak prensipler doğrultusunda geliştirilir ve yönetilir.
+Bu manifesto, Vynkrex altında geliştirilen tüm projeler için referans noktasıdır. Teknik kararlar, mimari tercihler ve geliştirme süreçleri bu çerçeveye uygun şekilde şekillendirilir.

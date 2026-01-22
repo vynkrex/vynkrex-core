@@ -1,4 +1,5 @@
-#Vynkrex Manifestosu 
+# Vynkrex Manifestosu 
+
 Vynkrex, uzun vadeli ve sürdürülebilir yazılım projeleri geliştirmek amacıyla oluşturulmuş bağımsız bir teknik yapılanmadır. Bu yapı tekil bir ürün veya kısa vadeli çıktılar üretmeyi değil; Vynkrex çatısı altındaki tüm projeleri yönlendiren ortak prensipleri, standartları ve karar alma biçimlerini tanımlar.
 Vynkrex projeleri rastgele yaklaşımlarla değil, planlı ve tutarlı bir mimari anlayışla geliştirilir. Amaç yalnızca çalışan yazılım üretmek değil; bakımı yapılabilir, geliştirilebilir ve uzun süre yaşayabilecek sistemler inşa etmektir. Bu yaklaşım, projelerin zaman içinde bozulmasını değil, olgunlaşmasını hedefler.
 Kod kalitesi Vynkrex için temel bir değerdir. Yazılan kod; okunabilir, anlaşılabilir ve genişletilebilir olmalıdır. Her proje, ekip içindeki veya sonradan dahil olacak geliştiricilerin hızlıca adapte olabileceği bir yapıda tasarlanır. Kod, bireysel tercihlerden ziyade ortak bir teknik dil ve mimari anlayış üzerine inşa edilir.

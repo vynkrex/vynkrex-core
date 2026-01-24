@@ -70,6 +70,12 @@ Standartlar.md — Kodlama, iş akışı ve geliştirme standartları
 GizlilikPolitikası.md — Veri ve gizlilik esasları
 ToS.md — Hizmet şartları ve kullanım koşulları
 
+## Katkıda Bulunmak
+
+Vynkrex Core deposuna katkıda bulunmak isteyenler için rehber: [CONTRIBUTING.md](./CONTRIBUTING.md)  
+Opsiyonel olarak doğrudan iletişim için: **vynkrex.contact@gmail.com**  
+Katkılar, dokümantasyon ve standartlara uygun olmalıdır. Sorular veya öneriler için öncelikle GitHub Issues kullanılmalıdır.
+
 # Lisans ve Kullanım
 
 Bu repository dokümantasyon ve yönlendirme amaçlıdır.

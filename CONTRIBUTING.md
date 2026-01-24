@@ -48,6 +48,7 @@ Bu rehber, yalnızca dokümantasyon, standartlar ve proje yönlendirmeleri için
 
 # İletişim 
 
-- Sorular, öneriler veya tartışmalar için GitHub Issues kullanılabilir. 
+- Sorular, öneriler veya katkılar için öncelikle GitHub Issues kullanılmalıdır. 
+- Opsiyonel olarak doğrudan iletişim için: vynkrex.contact@gmail.com  
 - Katkılar, Vynkrex projelerinin düzenli ve sürdürülebilir gelişimine doğrudan destek olur. 
 - Bu rehber, Vynkrex projelerine katkı yapan herkes için referans noktasıdır ve zamanla güncellenebilir.
